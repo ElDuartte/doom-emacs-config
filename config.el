@@ -36,7 +36,7 @@
 ;; (setq doom-theme 'doom-snazzy)
 (setq doom-theme 'doom-acario-dark)
 
-(setq doom-font (font-spec :family "Fira Code" :size 16 :weight 'bold))
+(setq doom-font (font-spec :family "Fira Code" :size 18 :weight 'bold))
 
 ;; This determines the style of line numbers in effect. If set to `nil', line
 ;; numbers are disabled. For relative line numbers, set this to `relative'.
